@@ -1,0 +1,22 @@
+Simple Grey Theme Verion 1.0 von Kenny, www.logosektor.de
+
+--------------------------------------------------------------------------------------------
+
+1) Installation
+
+Ladet den Ordner simplegrey auf euren Webspace/Server in den Forenroot. Also dorthin wo sich auch die index.php, attachment.php u.s.w. befinden.
+Dort befinden sich ALLE Grafiken für dieses Theme.
+
+Geht in das ACP/Templates&Styles auf Theme importieren. Ladet nun die xml-Datei aus dem Verzeichnis simplegrey hoch. (Evtl. Versionskompatibilität ignorieren anklicken)
+
+FERTIG!
+
+Nun müsst ihr den neuen Style nur noch als Standard zuweisen und dann habt ihr den neuen Style verfügbar.
+
+--------------------------------------------------------------------------------------------
+Wichtige Hinweise:
+
+Der Backlink im Footer darf nicht entfernt werden!
+
+
+
